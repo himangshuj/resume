@@ -25,60 +25,98 @@ author:
   gavatar: /resume/assets/img/avatar.JPG
   workHistory:
     - work1:
-      company: Youngmonk Technologies Pvt. Ltd.
-      location: Auckland, New Zealand
-      title: Java Developer
+      company: Youngmonk Technologies Pvt. Ltd. (gozoomo.com)
+      location: Bangalore India,
+      title: CTO & Co-Founder
       started: 2014
       duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: I am the tech co-founder of Gozoomo.com . I did everything from writing the first line of code to designing the tech infrastructure of the company to building the technology team. In a very short time frame, we built several products to help us generate liquidity and sell a peak of 500 cars per month. I led the technology battle as we moved from being bootstrapped to seed funded to series A of 7m $.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Sokratik
+      location: Bengalore, India
+      title: Co-Founder
+      started: 2013
+      duration: (2013 - 2014)
+      description: I was the tech co-founder of sokratik and tried to change the K-12 education instruction method. I built the product with we as the only fulltime developer.
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
+      company: Bankbazaar.com
+      location: Chennai/Bangalore, India
+      title: Tech Lead (SDE3)
+      started: 2011
+      duration: (2011 - 2013)
+      description: I was given out of turn double promotion at Bankbazaar. I built and led the micro services and bank integration team of bankbazaar. I started the insurance vertical of bankbazaar.com. I was responsible for hiring software engineers and increased the teamsize 5 folds.
+    - work4:
+      company: Bankbazaar.com
+      location: Chennai, India
+      title: Software Engineer (SDE)
+      started: 2010
+      duration: (2010 - 2011)
+      description: I joined bankbazaar as one of their earliest engineers. I created the microservice layer of bankbazaar. I was a part of three developers who wrote the base of bankbazaar.com and all it's offshoot products. I was also responsible for hiring fresh engineers.
+    - work5:
+      company: Partygaming.com
+      location: Hyderabad, India
+      title: Software Engineer (SDE)
       started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      duration: (2009 - 2010)
+      description: Worked in the ten-member Transaction Technology team that takes care of all financial transaction related development for Party Gaming. Typical workday involved work in javascript, struts2 and oracle db.
+    - work6:
+      company: IIT Kharagpur
+      location: Kharagpur, India
+      title: Alumni cell team
+      started: 2008
+      duration: (2008 - 2009)
+      description: Built the first online alumni network portal of IIT Kharagpur. This involved infrastructure to mail the alumni network and the first online payment portal of IIT Kharagpur.
+    - work7:
+      company: IIT Kharagpur
+      location: Kharagpur, India
+      title: Technology Students Gymkhana
+      started: 2006
+      duration: (2006 - 2008)
+      description: Designed an encrypted USB vault,complete with its own file system, for IIT Kharagpur's open software design competition.I was central coordinator  of all events and over all in-charge of website of IIT Kharagpur’s  techno management festival . Under my watch, participation grew by over ten times and the website became the most popular amateur college competion website of India.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: IIT Kharagpur
+      degree: Masters in Technology
+      major: Telecommunications Systems Engineering
+      started: 2008
+      duration: (2008 - 2009)
+      description: Graduated from one of Asia's top rated engineering colleges. As a part of my master dissertion,I designed and developed an Integrated development environment with self designed compiler, simulator for a custom RISC processor meant for a software defined radio.
+    - education2:
+      organization: IIT Kharagpur
+      degree: Bachelors in Technology
+      major: Electronics and Electrical Communications Systems Engineering
+      started: 2004
+      duration: (2004 - 2008)
+      description: Graduated from one of Asia's top rated engineering colleges. For my undergraduate thesis, I developed an algorithm to efficiently parse OFDM signals.
   languages:
     - language1:
-      name: Chinese
+      name: English
       proficiency: Native
     - language2:
-      name: English
-      proficiency: Professional
+      name: Assamese
+      proficiency: Native
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Hindi
+      proficiency: Professional
+    - language4:
+      name: Bengali
+      proficiency: Limited
   programmingSkills:
     - skill1:
       name: Java
-      percentage: 100%
+      percentage: 80%
     - skill2:
       name: Clojure
-      percentage: 90%
+      percentage: 70%
     - skill3:
       name: JavaScript
-      percentage: 90%
+      percentage: 80%
     - skill4:
       name: AngularJS
       percentage: 90%
     - skill5:
       name: Postgres
-      percentage: 90%
+      percentage: 80%
     - skill6:
       name: Microservice
       percentage: 90%
