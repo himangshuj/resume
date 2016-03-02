@@ -65,7 +65,7 @@ author:
       title: Alumni cell team
       started: 2008
       duration: (2008 - 2009)
-      description: Built the first online alumni network portal of IIT Kharagpur. This involved infrastructure to mail the alumni network and the first online payment portal of IIT Kharagpur.
+      description: I led the student team which built the first online alumni network portal of IIT Kharagpur. This involved infrastructure to mail the alumni network , first online payment portal of IIT Kharagpur and personal blog spaces for alumni.
     - work7:
       company: IIT Kharagpur
       location: Kharagpur, India
@@ -87,7 +87,7 @@ author:
       major: Electronics and Electrical Communications Systems Engineering
       started: 2004
       duration: (2004 - 2008)
-      description: Graduated from one of Asia's top rated engineering colleges. For my undergraduate thesis, I developed an algorithm to efficiently parse OFDM signals.
+      description: Graduated from one of Asia's top rated engineering colleges. For my undergraduate thesis, I developed an algorithm to efficiently parse OFDM signals. Learnt about the theoritical basis of computers and algorithms and many things technology.
   languages:
     - language1:
       name: English
