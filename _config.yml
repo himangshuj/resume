@@ -1,10 +1,10 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
-favicon: /resumecard/assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
-rss_url: /resumecard/pages/atom.xml
+title: Himangshu Hazarika's CV
+description: Himangshu Hazarika's CV
+favicon: /resume/assets/img/avatar.JPG
+baseurl: http://himangshu.io/resume
+url: http://himangshu.io/resume
+rss_url: /resume/pages/atom.xml
 
 # Build settings
 markdown: kramdown
@@ -13,11 +13,11 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Himangshu Hazarika
+  title: Software Developer
+  address: Bangalore, India
+  email: hjhazarika@gmail.com
+  link: http://himangshu.io
   weibo:
   github: ddbullfrog
   linkedin: ddbullfrog
