@@ -2,8 +2,8 @@
 title: Himangshu Hazarika's CV
 description: Himangshu Hazarika's CV
 favicon: /resume/assets/img/avatar.JPG
-baseurl: http://himangshu.io/resume
-url: http://himangshu.io/resume
+baseurl: http://himangshu.io/resume/
+url: http://himangshu.io/resume/
 rss_url: /resume/pages/atom.xml
 
 # Build settings
@@ -65,17 +65,38 @@ author:
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Java
       percentage: 100%
     - skill2:
-      name: Bootstrap
+      name: Clojure
       percentage: 90%
     - skill3:
       name: JavaScript
-      percentage: 80%
+      percentage: 90%
     - skill4:
       name: AngularJS
-      percentage: 80%
-    - skill5:
-      name: Java/Java EE
       percentage: 90%
+    - skill5:
+      name: Postgres
+      percentage: 90%
+    - skill6:
+      name: Microservice
+      percentage: 90%
+    - skill7:
+      name: SCSS/LESS
+      percentage: 60%
+    - skill8:
+      name: Spring
+      percentage: 90%
+    - skill9:
+      name: Android
+      percentage: 70%
+    - skill10:
+      name: Mongodb
+      percentage: 80%
+    - skill11:
+      name: Erlang
+      percentage: 60%
+    - skill12:
+      name: AWS
+      percentage: 70%
