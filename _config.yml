@@ -44,14 +44,14 @@ author:
       title: Tech Lead (SDE3)
       started: 2011
       duration: (2011 - 2013)
-      description: I was given out of turn double promotion at Bankbazaar. I built and led the micro services and bank integration team of bankbazaar. I started the insurance vertical of bankbazaar.com. I was responsible for hiring software engineers and increased the teamsize 5 folds.
+      description: I was given out of turn double promotion at Bankbazaar. I built and led the micro services and bank integration team of bankbazaar. I started the insurance vertical of bankbazaar.com. I was responsible for hiring software engineers and increased the team-size 5 folds.
     - work4:
       company: Bankbazaar.com
       location: Chennai, India
       title: Software Engineer (SDE)
       started: 2010
       duration: (2010 - 2011)
-      description: I joined bankbazaar as one of their earliest engineers. I created the microservice layer of bankbazaar. I was a part of three developers who wrote the base of bankbazaar.com and all it's offshoot products. I was also responsible for hiring fresh engineers.
+      description: I joined bankbazaar as one of their earliest engineers. I created the micro service architecture of bankbazaar. I was a part of three developers who wrote the base of bankbazaar.com and all it's offshoot products. I was also responsible for hiring fresh engineers. I introduced functional programming in bankbazaar.
     - work5:
       company: Partygaming.com
       location: Hyderabad, India
@@ -72,7 +72,7 @@ author:
       title: Technology Students Gymkhana
       started: 2006
       duration: (2006 - 2008)
-      description: Designed an encrypted USB vault,complete with its own file system, for IIT Kharagpur's open software design competition.I was central coordinator  of all events and over all in-charge of website of IIT Kharagpur’s  techno management festival . Under my watch, participation grew by over ten times and the website became the most popular amateur college competion website of India.
+      description: Designed an encrypted USB vault, complete with its own file system, for IIT Kharagpur's open software design competition.I was central coordinator  of all events and over all in-charge of website of IIT Kharagpur’s  techno management festival . Under my watch, participation grew by over ten times and the website became the most popular amateur college competition website of India.
   educationHistory:
     - education1:
       organization: IIT Kharagpur
@@ -80,14 +80,14 @@ author:
       major: Telecommunications Systems Engineering
       started: 2008
       duration: (2008 - 2009)
-      description: Graduated from one of Asia's top rated engineering colleges. As a part of my master dissertion,I designed and developed an Integrated development environment with self designed compiler, simulator for a custom RISC processor meant for a software defined radio.
+      description: Graduated from one of Asia's top rated engineering colleges. As a part of my master dissertation,I designed and developed an Integrated development environment with self designed compiler, simulator for a custom RISC processor meant for a software defined radio.
     - education2:
       organization: IIT Kharagpur
       degree: Bachelors in Technology
       major: Electronics and Electrical Communications Systems Engineering
       started: 2004
       duration: (2004 - 2008)
-      description: Graduated from one of Asia's top rated engineering colleges. For my undergraduate thesis, I developed an algorithm to efficiently parse OFDM signals. Learnt about the theoritical basis of computers and algorithms and many things technology.
+      description: Graduated from one of Asia's top rated engineering colleges. For my undergraduate dissertation, I developed an algorithm to efficiently parse OFDM signals. Learnt about the theoretical basis of computers and algorithms and many things technology.
   languages:
     - language1:
       name: English
@@ -109,32 +109,50 @@ author:
       name: Clojure
       percentage: 70%
     - skill3:
-      name: JavaScript
+      name: Functional Programming
       percentage: 80%
     - skill4:
-      name: AngularJS
+      name: OOP
       percentage: 90%
     - skill5:
-      name: Postgres
+      name: JavaScript
       percentage: 80%
     - skill6:
-      name: Microservice
+      name: AngularJS
       percentage: 90%
     - skill7:
-      name: SCSS/LESS
-      percentage: 60%
+      name: nodejs
+      percentage: 80%
     - skill8:
-      name: Spring
+      name: jquery
+      percentage: 90%
+    - skill7:
+      name: Postgres
+      percentage: 80%
+    - skill8:
+      name: Microservice
       percentage: 90%
     - skill9:
+      name: SCSS/LESS
+      percentage: 60%
+    - skill10:
+      name: Spring
+      percentage: 90%
+    - skill11:
       name: Android
       percentage: 70%
-    - skill10:
+    - skill12:
       name: Mongodb
       percentage: 80%
-    - skill11:
+    - skill13:
       name: Erlang
       percentage: 60%
-    - skill12:
+    - skill14:
       name: AWS
       percentage: 70%
+    - skill15:
+      name: Ruby
+      percentage: 60%
+    - skill16:
+      name: Python
+      percentage: 60%
