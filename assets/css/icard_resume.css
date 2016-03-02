@@ -416,3 +416,10 @@ hr {
 .badge-right-float {
     float: right;
 }
+@media print
+{
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}
