@@ -31,49 +31,49 @@ author:
       title: CTO & Co-Founder
       started: 2014
       duration: (2014 - Present)
-      description: I am the tech co-founder of Gozoomo.com . I did everything from writing the first line of code to designing the tech infrastructure of the company to building the technology team. In a very short time frame, we built several products to help us generate liquidity and sell a peak of 500 cars per month. I led the technology battle as we moved from being bootstrapped to seed funded to series A of 7m $.
+      description: I am the tech co-founder of Gozoomo.com. I did everything from writing the first line of code to designing the tech infrastructure of the company to building the technology team. In a very short time frame, we created several products to help us generate liquidity and sell a peak of 500 cars per month. I led the technology battle as we marched from bootstapped to seed funded to series A of 7m $.
     - work2:
       company: Sokratik
       location: Bengalore, India
       title: Co-Founder
       started: 2013
       duration: (2013 - 2014)
-      description: I was the tech co-founder of sokratik and tried to change the K-12 education instruction method. I built a browser based educational video creator and editor. It was built on nodejs and angularjs.
+      description: I was the tech co-founder of Sokratik and tried to change the K-12 education instruction method. I built a browser-based educational video creator and editor. It built it on nodejs, angularjs and clojure.
     - work3:
       company: Bankbazaar.com
       location: Chennai/Bangalore, India
       title: Tech Lead (SDE3)
       started: 2011
       duration: (2011 - 2013)
-      description: I was given out of turn double promotion at Bankbazaar. I built and led the micro services and bank integration team of bankbazaar. I started the insurance vertical of bankbazaar.com. I was responsible for hiring software engineers and increased the team-size 5 folds.
+      description: I got out of turn double-promotion at Bankbazaar. I built and led the micro services and bank integration team of BankBazaar. I started the insurance vertical of bankbazaar.com. I was responsible for hiring software engineers and increased the team size five folds.
     - work4:
       company: Bankbazaar.com
       location: Chennai, India
       title: Software Engineer (SDE)
       started: 2010
       duration: (2010 - 2011)
-      description: I joined bankbazaar as one of their earliest engineers. I created the micro service architecture of bankbazaar. I was a part of three developers who wrote the base of bankbazaar.com and all it's offshoot products. I was also responsible for hiring fresh engineers. I introduced functional programming in bankbazaar.
+      description: I joined BankBazaar as one of their earliest engineers. I created the microservice architecture of BankBazaar. I was a part of three developers who wrote the base of bankbazaar.com and all it's offshoot products. I was also responsible for hiring fresh engineers. I introduced functional programming in BankBazaar.
     - work5:
       company: Partygaming.com
       location: Hyderabad, India
       title: Software Engineer (SDE)
       started: 2009
       duration: (2009 - 2010)
-      description: Worked in the ten-member Transaction Technology team that takes care of all financial transaction related development for Party Gaming. Typical workday involved work in javascript, struts2 and oracle db.
+      description: I worked in the ten-member Transaction Technology team that takes care of all financial transaction related development for Party Gaming. Typical workday involved work in javascript, struts2 and Oracle DB.
     - work6:
       company: IIT Kharagpur
       location: Kharagpur, India
       title: Alumni cell team
       started: 2008
       duration: (2008 - 2009)
-      description: I led the student team which built the first online alumni network portal of IIT Kharagpur. This involved infrastructure to mail the alumni network , first online payment portal of IIT Kharagpur and personal blog spaces for alumni.
+      description: I led the student team which built the first online alumni network portal of IIT Kharagpur. This product had an infrastructure to mail the alumni network, the first online payment portal of IIT Kharagpur and personal blog spaces for alumni.
     - work7:
       company: IIT Kharagpur
       location: Kharagpur, India
       title: Technology Students Gymkhana
       started: 2006
       duration: (2006 - 2008)
-      description: Designed an encrypted USB vault, complete with its own file system, for IIT Kharagpur's open software design competition.I was central coordinator  of all events and over all in-charge of website of IIT Kharagpur’s  techno management festival . Under my watch, participation grew by over ten times and the website became the most popular amateur college competition website of India.
+      description: I designed an encrypted USB vault, complete with its file system, for IIT Kharagpur's open software design competition.I was the central coordinator of all events and overall in-charge of the website of IIT Kharagpur’s techno-management festival. Under my watch, participation grew by over ten times and the site became the most popular amateur college competition website of India.
   educationHistory:
     - education1:
       organization: IIT Kharagpur
@@ -81,14 +81,14 @@ author:
       major: Telecommunications Systems Engineering
       started: 2008
       duration: (2008 - 2009)
-      description: Graduated from one of Asia's top rated engineering colleges. As a part of my master dissertation,I designed and developed an Integrated development environment with self designed compiler, simulator for a custom RISC processor meant for a software defined radio.
+      description: Graduated from one of Asia's top-rated engineering colleges. As a part of my master dissertation, I designed and developed an Integrated development environment with a self-designed compiler, a simulator for a custom RISC processor meant for software defined radio.
     - education2:
       organization: IIT Kharagpur
       degree: Bachelors in Technology
       major: Electronics and Electrical Communications Systems Engineering
       started: 2004
       duration: (2004 - 2008)
-      description: Graduated from one of Asia's top rated engineering colleges. For my undergraduate dissertation, I developed an algorithm to efficiently parse OFDM signals. Learnt about the theoretical basis of computers and algorithms and many things technology.
+      description: I graduated from one of Asia's top-rated engineering colleges. For my undergraduate dissertation, I developed an algorithm to parse OFDM signals efficiently. I Learned about the theoretical basis of computers and algorithms and many things technology
   languages:
     - language1:
       name: English
@@ -105,16 +105,16 @@ author:
   programmingSkills:
     - skill1:
       name: Java
-      percentage: 80%
+      percentage: 90%
     - skill2:
       name: Clojure
-      percentage: 70%
+      percentage: 90%
     - skill3:
       name: Functional Programming
       percentage: 80%
     - skill4:
       name: OOP
-      percentage: 90%
+      percentage: 80%
     - skill5:
       name: JavaScript
       percentage: 80%
