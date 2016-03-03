@@ -94,7 +94,7 @@ layout: default
                     {% for domainExpertise in site.author.domainExpertise %}
                     <li>
                         {% if domainExpertise.industry %}
-                        <i class="fa fa-bookmark-o"></i><span class="caption-skill">{{ domainExpertise.industry }}</span>
+                        <i class="fa fa-bookmark-o"></i> {{ domainExpertise.industry }}
                         {% endif %}
                     </li>
                     {% endfor %}
