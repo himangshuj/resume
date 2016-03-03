@@ -5,6 +5,7 @@ favicon: /resume/assets/img/avatar.JPG
 baseurl: http://himangshu.io/resume/
 url: http://himangshu.io/resume/
 rss_url: /resume/pages/atom.xml
+googleanalytics: "UA-74531944-1"
 
 # Build settings
 markdown: kramdown
@@ -16,7 +17,7 @@ author:
   name: Himangshu Hazarika
   title: Software Developer & Entrepreneur
   address: Bangalore, India
-  email: hjhazarika@gmail.com
+  email: hjhazarika AT gmail.com
   link: http://himangshu.io
   stackoverflow: himangshuj
   github: himangshuj
