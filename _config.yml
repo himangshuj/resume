@@ -157,3 +157,10 @@ author:
     - skill16:
       name: Python
       percentage: 60%
+  domainExpertise:
+    - domain1: fin tech
+    - domain2: consumer internet
+    - domain3: marktplace
+    - domain4: payment tech
+    - domain5: education
+

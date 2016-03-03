@@ -87,6 +87,20 @@ layout: default
             {% endif %}
         </div>
         <div class="col-md-4">
+            {% if site.author.domainExpertise %}
+            <h3 class="title with-icon"><span class="fa fa-gavel cat-title"></span> Domain Expertise</h3>
+            <div class="grid-block">
+                <ul class="list-unstyled list-skills">
+                    {% for domainExpertise in site.author.domainExpertise %}
+                    <li>
+                        <i class="fa fa-bolt"></i>{{ domainExpertise }}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+        </div>
+        <div class="col-md-4">
             {% if site.author.programmingSkills %}
                 <h3 class="title with-icon"><span class="fa fa-code cat-title"></span> Programming Skills</h3>
                 <div class="grid-block">
