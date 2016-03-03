@@ -93,7 +93,9 @@ layout: default
                 <ul class="list-unstyled list-skills">
                     {% for domainExpertise in site.author.domainExpertise %}
                     <li>
-                        <i class="fa fa-bolt"></i>{{ domainExpertise }}
+                        {% if domainExpertise.industry %}
+                        <i class="fa fa-bookmark-o"></i><span class="caption-skill">{{ domainExpertise }}</span>
+                        {% endif %}
                     </li>
                     {% endfor %}
                 </ul>

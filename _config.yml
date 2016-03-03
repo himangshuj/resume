@@ -158,9 +158,14 @@ author:
       name: Python
       percentage: 60%
   domainExpertise:
-    - domain1: fin tech
-    - domain2: consumer internet
-    - domain3: marktplace
-    - domain4: payment tech
-    - domain5: education
+    - domain1:
+      industry: fin tech
+    - domain2:
+      industry: consumer internet
+    - domain3:
+      industry: marktplace
+    - domain4:
+      industry: payment tech
+    - domain5:
+      industry: education
 
