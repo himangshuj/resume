@@ -2,8 +2,8 @@
 title: Himangshu Hazarika's CV
 description: Himangshu Hazarika's CV
 favicon: /resume/assets/img/avatar.JPG
-baseurl: http://himangshu.io/resume
-url: http://himangshu.io/resume/
+baseurl: https://himangshu.io/resume
+url: https://himangshu.io/resume/
 rss_url: /resume/pages/atom.xml
 googleanalytics: "UA-74531944-1"
 
@@ -18,7 +18,7 @@ author:
   title: Software Developer & Entrepreneur
   address: Bangalore, India
   email: hjhazarika AT gmail.com
-  link: http://himangshu.io
+  link: https://himangshu.io
   stackoverflow: himangshuj
   github: himangshuj
   linkedin: himangshu
