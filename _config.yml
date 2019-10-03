@@ -26,54 +26,95 @@ author:
   gavatar: /resume/assets/img/avatar.JPG
   workHistory:
     - work1:
+      company: SimplyCredit Inc. (www.mysimplycredit.com)
+      location: San Francisco CA,
+      title: Principal Engineer
+      started: 2019
+      duration: (2019 - present)
+      description: I am the principal Engineer at SimplyCredit. I am responsible for all things
+      engineering. I serve as main architect of all products , product manager for engineering projects,
+      security for information, point of contact for external tech teams , design and maintain the servers
+      that keeps our software running and hiring manager of the engineering team.
+    - work2:
+      company: SimplyCredit Inc. (www.mysimplycredit.com)
+      location: San Francisco CA,
+      title: Senior Software Engineer
+      started: 2017
+      duration: (2017 - 2019)
+      description: I was a senior software engineer at SimplyCredit. I was responsible for the architecture and delivery for
+      products built by us to refinance credit card debts. In addition to building the product, I designed and maintained
+      the infrastructure that hosted our servers. In my tenure we grew our client base to over thirty credit unions
+      leading to signficant cost savings for both consumers and credit unions. I was also responsible for engineering hiring
+      and designing engineering processes.
+    - work3:
+      company: SimplyCredit Inc. (www.mysimplycredit.com)
+      location: Bangalore India,
+      title: Contractor
+      started: 2016
+      duration: (2016 - 2016)
+      description: I joined SimplyCredit at a contract position just before the product was launched to first consumers.
+        As a contract engineer my main role was to built the software used by our first few credit unions and consumers.
+
+    - work4:
       company: Youngmonk Technologies Pvt. Ltd. (gozoomo.com)
       location: Bangalore India,
       title: CTO & Co-Founder
       started: 2014
-      duration: (2014 - Present)
-      description: I am the tech co-founder of Gozoomo.com. I did everything from writing the first line of code to designing the tech infrastructure of the company to building the technology team. In a very short time frame, we created several products to help us generate liquidity and sell a peak of 500 cars per month. I led the technology battle as we marched from bootstrapped to seed funded to series A of 7m $.
-    - work2:
+      duration: (2014 - 2016)
+      description: I am the tech co-founder of Gozoomo.com. I did everything from writing the first line of code to designing
+      the tech infrastructure of the company to building the technology team.
+      In a very short time frame, we created several products to help us generate liquidity and sell a peak of 500 cars per month.
+      I led the technology battle as we marched from bootstrapped to seed funded to series A of 7m $. Unfortunately we could not make
+      a profitable business out of it and had to shut it down. We won plaudits for the ethical way in which we ran the company
+      and shut it down. We were featured across many major news entities in India and abroad
+      not limited to Wall Street Journal, Forbes, Times of India, Techcrunch and Tech In Asia.
+    - work5:
       company: Sokratik
       location: Bengalore, India
       title: Co-Founder
       started: 2013
       duration: (2013 - 2014)
       description: I was the tech co-founder of Sokratik and tried to change the K-12 education instruction method. I built a browser-based educational video creator and editor. It built it on nodejs, angularjs and clojure.
-    - work3:
+    - work6:
       company: Bankbazaar.com
       location: Chennai/Bangalore, India
       title: Tech Lead (SDE3)
       started: 2011
       duration: (2011 - 2013)
       description: I got out of turn double-promotion at Bankbazaar. I built and led the micro services and bank integration team of BankBazaar. I started the insurance vertical of bankbazaar.com. I was responsible for hiring software engineers and increased the team size five folds.
-    - work4:
+    - work7:
       company: Bankbazaar.com
       location: Chennai, India
       title: Software Engineer (SDE)
       started: 2010
       duration: (2010 - 2011)
       description: I joined BankBazaar as one of their earliest engineers. I created the microservice architecture of BankBazaar. I was a part of three developers who wrote the base of bankbazaar.com and all it's offshoot products. I was also responsible for hiring fresh engineers. I introduced functional programming in BankBazaar.
-    - work5:
+    - work8:
       company: Partygaming.com
       location: Hyderabad, India
       title: Software Engineer (SDE)
       started: 2009
       duration: (2009 - 2010)
       description: I worked in the ten-member Transaction Technology team that takes care of all financial transaction related development for Party Gaming. Typical workday involved work in javascript, struts2 and Oracle DB.
-    - work6:
+    - work9:
       company: IIT Kharagpur
       location: Kharagpur, India
       title: Alumni cell team
       started: 2008
       duration: (2008 - 2009)
-      description: I led the student team which built the first online alumni network portal of IIT Kharagpur. This product had an infrastructure to mail the alumni network, the first online payment portal of IIT Kharagpur and personal blog spaces for alumni.
-    - work7:
+      description: I led the student team which built the first online alumni network portal of IIT Kharagpur.
+      This product had an infrastructure to mail the alumni network, the first online payment portal of IIT Kharagpur and personal blog spaces for alumni.
+    - work10:
       company: IIT Kharagpur
       location: Kharagpur, India
-      title: Technology Students Gymkhana
+      title: Student Volunteer
       started: 2006
       duration: (2006 - 2008)
-      description: I designed an encrypted USB vault, complete with its file system, for IIT Kharagpur's open software design competition.I was the central coordinator of all events and overall in-charge of the website of IIT Kharagpur’s techno-management festival. Under my watch, participation grew by over ten times and the site became the most popular amateur college competition website of India.
+      description: I designed an encrypted USB vault, complete with its file system,
+      for IIT Kharagpur's open software design competition.I was the central coordinator of all events and
+      overall in-charge of the website of IIT Kharagpur’s techno-management festival. Under my watch,
+      participation grew by over ten times and the site became the most popular amateur college competition website of India.
+      In addition I worked in the central team taking care of campus job fair. I was featured on national news media .
   educationHistory:
     - education1:
       organization: IIT Kharagpur
@@ -104,57 +145,66 @@ author:
       proficiency: Limited
   programmingSkills:
     - skill1:
-      name: Java
-      percentage: 90%
+      name: Elixir
+      percentage: 70%
     - skill2:
+      name: Java
+      percentage: 70%
+    - skill21:
+      name: Scala
+      percentage: 70%
+    - skill3:
       name: Clojure
       percentage: 90%
-    - skill3:
-      name: Functional Programming
-      percentage: 80%
     - skill4:
-      name: OOP
+      name: ClojureScript
       percentage: 80%
-    - skill5:
+    - skill17:
+      name: React
+      percentage: 60%
+    - skill7:
       name: JavaScript
       percentage: 80%
-    - skill6:
+    - skill8:
       name: AngularJS
-      percentage: 90%
-    - skill7:
+      percentage: 50%
+    - skill9:
+      name: Devops (AWS,CI & Security)
+      percentage: 70%
+    - skill10:
+      name: Phoenix
+      percentage: 70%
+    - skill11:
       name: nodejs
       percentage: 80%
-    - skill8:
+    - skill12:
       name: jquery
-      percentage: 90%
-    - skill7:
-      name: Postgres
+      percentage: 70%
+    - skill13:
+      name: Database (Postgres
       percentage: 80%
-    - skill8:
-      name: Microservice
-      percentage: 90%
-    - skill9:
+    - skill14:
+      name: Rest Services
+      percentage: 80%
+    - skill14:
+      name: Soap
+      percentage: 60%
+    - skill15:
       name: SCSS/LESS
       percentage: 60%
-    - skill10:
+    - skill16:
       name: Spring
-      percentage: 90%
-    - skill11:
-      name: Android
-      percentage: 70%
-    - skill12:
-      name: Mongodb
-      percentage: 80%
-    - skill13:
-      name: Erlang
       percentage: 60%
-    - skill14:
+    - skill17:
+      name: Android
+      percentage: 50%
+    - skill18:
       name: AWS
       percentage: 70%
-    - skill15:
+    - skill19:
       name: Ruby
       percentage: 60%
-    - skill16:
+    - skill20:
       name: Python
       percentage: 60%
   domainExpertise:
@@ -163,7 +213,7 @@ author:
     - domain2:
       industry: consumer internet
     - domain3:
-      industry: marktplace
+      industry: marketplace
     - domain4:
       industry: payment tech
     - domain5:
