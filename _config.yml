@@ -23,6 +23,7 @@ author:
   github: himangshuj
   linkedin: himangshu
   twitter: himangshuj
+
   gavatar: /resume/assets/img/avatar.JPG
   workHistory:
     - work1:
@@ -136,6 +137,78 @@ author:
       started: 2004
       duration: (2004 - 2008)
       description: I graduated from one of Asia's top-rated engineering colleges. For my undergraduate dissertation, I developed an algorithm to parse OFDM signals efficiently. I Learned about the theoretical basis of computers and algorithms and many things technology
+  healthAchievements:
+    - achievement:
+      location: Kharagpur, India
+      event: Mis Diagnosed with Type 1 Diabetes
+      year: 2007
+      description: >
+        I was mis-diagnosed with Type 1 Diabetes. My blood sugar levels were very high and my insulin levels
+        were very low. I was put on insulin twice a day. I was very inactive and hardly did any exercise or eat healthy.
+        I decided to fight back and make minor changes to food and exercise.
+    - achievement:
+      location: Kharagpur, India
+      event: Diagnosed with Clinical Depression
+      year: 2008
+      description: >
+        My health issues and competitive educational environment was taking its toll in me. By May , I realized that
+        I was not in control of my life. Not bowing down to running Social Taboos. I used my scholarship money to get
+        myself treatment and started working with a therapist to get out of the hole.
+    - achievement:
+      location: Kharagpur, India
+      event: Diagnosed with Clinical Depression
+      year: 2008
+      description: >
+        My health issues and competitive educational environment was taking its toll in me. By May , I realized that
+        I was not in control of my life. Not bowing down to running Social Taboos. I used my scholarship money to get
+        myself treatment and started working with a therapist to get out of the hole.
+    - achievement:
+      location: Kharagpur, India
+      event: Got rid of insulin
+      year: 2009
+      description: >
+        A year into my fightback against diabetes, I got rid of insulin. I picked up running as a hobby and
+        graduated from not being able to run for more than five minutes to running 5kms plus at least two to three
+        times a week.
+    - achievement:
+      location: Guwahati, India
+      event: Ran my first half marathon & First Hb1c of 5.9
+      year: 2014
+      description: >
+        Seven years into my health journey, I got my Hb1c reading of less than 6. I also reduced my dependency on
+        non DPP-4 inhibitors drugs to less than 50 mg per day. I ran my first half marathon.
+    - achievement:
+      location: Bangalore, India
+      event: Start up failure and health issues
+      year: 2016
+      description: >
+        Two years after I had ran my first half marathon, my startup gozoomo failed and it took a toll on my health.
+        My Hb1c shot up to 11.2 . I had to resume insulin intake . I no longer had my old stamina to run.
+    - achievement:
+      location: San Francisco & Honolulu, USA
+      event: Road to Recovery and First Marathon
+      year: 2017
+      description: >
+        I got my act together . I started being more disciplined in life. Ran two half
+        marathons and ran my first full marathon. I reduced my hb1c to less than 6.5 . I also reduced my dependency
+        on medicines to 2014 level.
+    - achievement:
+      location: San Francisco & Slovenia & Japan & Canada & New Zealand
+      event: Marathons and Mountains
+      year: 2018
+      description: >
+        Climbed the highest mountain of Slovenia & Japan and ran four full marathons
+        in San Francisco,Oakland, Niagara, Queenstown.
+         In addition, I ran a few half marathons.
+    - achievement:
+      location: San Francisco
+      event: Marathons, Mountains & getting kicked out for being too healthy
+      year: 2019
+      description: >
+        Climbed the highest mountain of continental US. Ran two marathons with plans to do two more.
+        Did my first 50 mile bike ride and
+        100 mile bike ride. I got rid of DPP 4 inhibitors after twelve years. Cherry on cake, I was kicked out
+        on a diet study of diabetics for being too healthy.
   languages:
     - language1:
       name: English
@@ -187,7 +260,7 @@ author:
       name: jquery
       percentage: 70%
     - skill13:
-      name: Database (Postgres
+      name: Database (Postgres, Warehousing)
       percentage: 80%
     - skill14:
       name: Rest Services
@@ -224,4 +297,25 @@ author:
       industry: payment tech
     - domain5:
       industry: education
-
+  mediaCoverage:
+    - article:
+      title: Gozoomo Ethics (WSJ)
+      url: https://www.wsj.com/articles/indias-gozoomo-shuts-down-returns-capital-to-investors-1472224501
+    - article:
+      title: Gozoomo Ethics (Times of India, Worlds largest circulated English Broadsheet)
+      url: https://timesofindia.indiatimes.com/business/india-business/What-this-Bengaluru-based-start-up-did-when-its-business-model-didnt-scale/articleshow/54286503.cms
+    - article:
+      title: Gozoomo Ethics (Financial Express)
+      url: http://www.financialexpress.com/industry/companies/gozoomo-a-startup-that-shut-its-operations-with-a-rather-brave-step/374250/
+    - article:
+      title: Gozoomo Funding (TechInAsia)
+      url: https://www.techinasia.com/gozoomo-trio-disrupt-used-car-market
+    - article:
+      title: Gozoomo Accolades (Forbes)
+      url: https://www.forbes.com/sites/tanyaprive/2015/12/22/20-startups-to-watch-in-2016/#6aad61b44a90
+    - article:
+      title: Gozoomo Funding (Economic Times)
+      url: https://economictimes.indiatimes.com/small-biz/yuri-milner-to-invest-2-million-in-used-cars-marketplace-zoomo/articleshow/48417425.cms
+    - article:
+      title: IIT Kharagpur Placements (CNBC)
+      url: https://www.youtube.com/watch?v=3Gjup-2QE38
