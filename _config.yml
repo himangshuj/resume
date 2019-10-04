@@ -250,7 +250,13 @@ author:
       name: AngularJS
       percentage: 50%
     - skill9:
-      name: Devops (AWS,CI & Security)
+      name: AWS
+      percentage: 70%
+    - skill9:
+      name: CI
+      percentage: 70%
+    - skill:
+      name: Security
       percentage: 70%
     - skill10:
       name: Phoenix
@@ -279,9 +285,6 @@ author:
     - skill17:
       name: Android
       percentage: 50%
-    - skill18:
-      name: AWS
-      percentage: 70%
     - skill19:
       name: Ruby
       percentage: 60%
@@ -290,15 +293,13 @@ author:
       percentage: 60%
   domainExpertise:
     - domain1:
-      industry: fin tech
-    - domain2:
-      industry: consumer internet
+      industry: Consumer Lending
     - domain3:
-      industry: marketplace
+      industry: Marketplace
     - domain4:
-      industry: payment tech
+      industry: Payment tech
     - domain5:
-      industry: education
+      industry: Education
   mediaCoverage:
     - article:
       title: Gozoomo Ethics (WSJ)
