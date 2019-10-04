@@ -15,8 +15,8 @@ exclude: [vendor]
 # Author settings
 author:
   name: Himangshu Hazarika
-  title: Software Developer & Entrepreneur
-  address: Bangalore, India
+  title: Software Developer & Entrepreneur & Ameteur Runner
+  address: San Francisco, CA
   email: hjhazarika AT gmail.com
   link: https://himangshu.io
   stackoverflow: himangshuj
@@ -31,28 +31,31 @@ author:
       title: Principal Engineer
       started: 2019
       duration: (2019 - present)
-      description: I am the principal Engineer at SimplyCredit. I am responsible for all things
-      engineering. I serve as main architect of all products , product manager for engineering projects,
-      security for information, point of contact for external tech teams , design and maintain the servers
-      that keeps our software running and hiring manager of the engineering team.
+      description: >
+        I am the principal Engineer at SimplyCredit. I am responsible for all things
+        engineering. I serve as main architect of all products , product manager for engineering projects,
+        security for information, point of contact for external tech teams , design and maintain the servers
+        that keeps our software running and hiring manager of the engineering team.
     - work2:
       company: SimplyCredit Inc. (www.mysimplycredit.com)
       location: San Francisco CA,
       title: Senior Software Engineer
       started: 2017
       duration: (2017 - 2019)
-      description: I was a senior software engineer at SimplyCredit. I was responsible for the architecture and delivery for
-      products built by us to refinance credit card debts. In addition to building the product, I designed and maintained
-      the infrastructure that hosted our servers. In my tenure we grew our client base to over thirty credit unions
-      leading to signficant cost savings for both consumers and credit unions. I was also responsible for engineering hiring
-      and designing engineering processes.
+      description: >
+        I was a senior software engineer at SimplyCredit. I was responsible for the architecture and delivery for
+        products built by us to refinance credit card debts. In addition to building the product, I designed and maintained
+        the infrastructure that hosted our servers. In my tenure we grew our client base to over thirty credit unions
+        leading to significant cost savings for both consumers and credit unions. I was also responsible for engineering hiring
+        and designing engineering processes.
     - work3:
       company: SimplyCredit Inc. (www.mysimplycredit.com)
       location: Bangalore India,
       title: Contractor
       started: 2016
       duration: (2016 - 2016)
-      description: I joined SimplyCredit at a contract position just before the product was launched to first consumers.
+      description: >
+        I joined SimplyCredit at a contract position just before the product was launched to first consumers.
         As a contract engineer my main role was to built the software used by our first few credit unions and consumers.
 
     - work4:
@@ -61,13 +64,14 @@ author:
       title: CTO & Co-Founder
       started: 2014
       duration: (2014 - 2016)
-      description: I am the tech co-founder of Gozoomo.com. I did everything from writing the first line of code to designing
-      the tech infrastructure of the company to building the technology team.
-      In a very short time frame, we created several products to help us generate liquidity and sell a peak of 500 cars per month.
-      I led the technology battle as we marched from bootstrapped to seed funded to series A of 7m $. Unfortunately we could not make
-      a profitable business out of it and had to shut it down. We won plaudits for the ethical way in which we ran the company
-      and shut it down. We were featured across many major news entities in India and abroad
-      not limited to Wall Street Journal, Forbes, Times of India, Techcrunch and Tech In Asia.
+      description: >
+        I am the tech co-founder of Gozoomo.com. I did everything from writing the first line of code to designing
+        the tech infrastructure of the company to building the technology team.
+        In a very short time frame, we created several products to help us generate liquidity and sell a peak of 500 cars per month.
+        I led the technology battle as we marched from bootstrapped to seed funded to series A of 7m $. Unfortunately we could not make
+        a profitable business out of it and had to shut it down. We won plaudits for the ethical way in which we ran the company
+        and shut it down. We were featured across many major news entities in India and abroad
+        not limited to Wall Street Journal, Forbes, Times of India, Techcrunch and Tech In Asia.
     - work5:
       company: Sokratik
       location: Bengalore, India
@@ -102,19 +106,21 @@ author:
       title: Alumni cell team
       started: 2008
       duration: (2008 - 2009)
-      description: I led the student team which built the first online alumni network portal of IIT Kharagpur.
-      This product had an infrastructure to mail the alumni network, the first online payment portal of IIT Kharagpur and personal blog spaces for alumni.
+      description: >
+        I led the student team which built the first online alumni network portal of IIT Kharagpur.
+        This product had an infrastructure to mail the alumni network, the first online payment portal of IIT Kharagpur and personal blog spaces for alumni.
     - work10:
       company: IIT Kharagpur
       location: Kharagpur, India
       title: Student Volunteer
       started: 2006
       duration: (2006 - 2008)
-      description: I designed an encrypted USB vault, complete with its file system,
-      for IIT Kharagpur's open software design competition.I was the central coordinator of all events and
-      overall in-charge of the website of IIT Kharagpur’s techno-management festival. Under my watch,
-      participation grew by over ten times and the site became the most popular amateur college competition website of India.
-      In addition I worked in the central team taking care of campus job fair. I was featured on national news media .
+      description: >
+        I designed an encrypted USB vault, complete with its file system,
+        for IIT Kharagpur's open software design competition.I was the central coordinator of all events and
+        overall in-charge of the website of IIT Kharagpur’s techno-management festival. Under my watch,
+        participation grew by over ten times and the site became the most popular amateur college competition website of India.
+        In addition I worked in the central team taking care of campus job fair. I was featured on national news media .
   educationHistory:
     - education1:
       organization: IIT Kharagpur
